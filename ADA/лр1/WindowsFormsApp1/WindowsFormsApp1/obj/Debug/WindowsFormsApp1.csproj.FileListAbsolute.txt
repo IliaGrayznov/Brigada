@@ -1,0 +1,15 @@
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConfigForm.resources
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PingForm.resources
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ARPForm.resources
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RouteForm.resources
+F:\учеба\5 семестр\ИС\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TracertForm.resources
